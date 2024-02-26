@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:40580358-0c58-412f-b84e-cba8c7875dad:dbContext" value="FinalFilmProject.ApplicationDbContext" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:enableDiagnosticLogging" value="false" />
+        <entry key="Common:idempotent" value="false" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:noTransactions" value="false" />
+        <entry key="Common:outputFilePath" value="script.sql" />
+        <entry key="Common:outputFolder" value="Migrations" />
+        <entry key="Common:useDefaultConnection" value="true" />
+      </map>
+    </option>
+  </component>
+</project>
